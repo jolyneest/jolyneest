@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jolyneest
+- 👀 I’m interested in posting here my little project and communicating with developers
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate with anyone
+- 📫 How to reach me: telegram @jolyneest
